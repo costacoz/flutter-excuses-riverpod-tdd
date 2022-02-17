@@ -1,4 +1,4 @@
-# riverpod_practice
+# Flutter Riverpod project that uses excuses API. Built with TDD approach.
 
 Flutter project based on riverpod with tests.
 
