@@ -29,15 +29,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hooks_riverpod:
+  hooks_riverpod: ^1.0.3
   json_annotation: ^4.4.0
-  freezed_annotation:
+  freezed_annotation: ^1.1.0
   dio: ^4.0.4
   http_mock_adapter: ^0.3.2
   internet_connection_checker: ^0.0.1+3
   shared_preferences: ^2.0.12
   json_serializable: ^6.1.4
-  dartz:
+  dartz: 0.10.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -46,10 +46,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito:
+  mockito: 5.1.0
 
-  build_runner:
-  freezed:
+  build_runner: ^2.1.7
+  freezed: ^1.1.1
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
